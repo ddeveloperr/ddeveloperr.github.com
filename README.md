@@ -1,5 +1,5 @@
 # Build my blog using Jekyll-Bootstrap
-## Go to my blog [http://ddeveloperr.github.io/]
+## Go to my [blog] (http://ddeveloperr.github.io/)
 
 
 
